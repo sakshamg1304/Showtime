@@ -23,11 +23,11 @@ const useStyles = makeStyles((theme) => ({
   paper: {
     width: "90%",
     height: "80%",
-    backgroundColor: "#39445a",
+    backgroundColor: "#003638",
     border: "1px solid #282c34",
     borderRadius: 10,
     color: "white",
-    boxShadow: theme.shadows[5],
+    boxShadow: "0px 1px 8px red",
     padding: theme.spacing(1, 1, 3),
   },
 }));
